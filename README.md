@@ -15,7 +15,7 @@ Este projeto consiste na criação da identidade sonora e visual de um jogo de t
 
 ## 🚀 Resultados
 - Trilha Sonora Oficial: [Baixar arquivo da música: https://github.com/KinderB123/lab-natty-or-not/raw/refs/heads/main/Yellow%20Maze%20-%20Suno%20Ai.mp3]
-- Arte de Capa: ![Capa do Jogo](Backrooms Bing.jpg)
+- Arte de Capa: ![Capa do Jogo]([Backrooms Bing.jpg](https://github.com/KinderB123/lab-natty-or-not/blob/main/Backrooms%20Bing.jpg?raw=true))
 
 ## 💡 Reflexão
 Criar este conteúdo com IA foi uma experiência fantástica. Sendo iniciante em tecnologia, ver uma ideia abstrata se transformar em música e imagem realista em poucos minutos mostra o poder dessas ferramentas para ajudar criadores e desenvolvedores independentes a darem vida aos seus projetos.
