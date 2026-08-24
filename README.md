@@ -14,7 +14,7 @@ Este projeto consiste na criação da identidade sonora e visual de um jogo de t
 3. Geração da Arte: Criação da imagem de capa por meio do Bing Image Creator, utilizando descrições detalhadas de corredores amarelos úmidos, perspectiva claustrofóbica e iluminação realista.
 
 ## 🚀 Resultados
-- Trilha Sonora Oficial: [Baixar arquivo da música]
+- Trilha Sonora Oficial: [Baixar arquivo da música: https://github.com/KinderB123/lab-natty-or-not/raw/refs/heads/main/Yellow%20Maze%20-%20Suno%20Ai.mp3]
 - Arte de Capa: ![Capa do Jogo](caminho-ou-link-da-sua-imagem.png) *(Insira a imagem no seu repositório e coloque o link ou o arquivo aqui)*
 
 ## 💡 Reflexão
