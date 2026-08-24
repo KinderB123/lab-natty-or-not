@@ -1,7 +1,7 @@
 # 🎮 Backrooms: The Yellow Maze - Trilha Sonora & Arte de Capa
 
 ## 💻 Tecnologias Utilizadas
-- ChatGPT: Para auxílio na criação do conceito e estruturação dos prompts.
+- Gemini: Para auxílio na criação do conceito e estruturação dos prompts.
 - Suno AI: Para a geração da trilha sonora imersiva de terror.
 - Bing Image Creator: Para a criação da arte de capa ultra-realista.
 
