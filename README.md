@@ -14,7 +14,7 @@ Este projeto consiste na criação da identidade sonora e visual de um jogo de t
 3. Geração da Arte: Criação da imagem de capa por meio do Bing Image Creator, utilizando descrições detalhadas de corredores amarelos úmidos, perspectiva claustrofóbica e iluminação realista.
 
 ## 🚀 Resultados
-- Trilha Sonora Oficial: [Insira aqui o link da música que você gerou no Suno/Udio]
+- Trilha Sonora Oficial: [Baixar arquivo da música]
 - Arte de Capa: ![Capa do Jogo](caminho-ou-link-da-sua-imagem.png) *(Insira a imagem no seu repositório e coloque o link ou o arquivo aqui)*
 
 ## 💡 Reflexão
